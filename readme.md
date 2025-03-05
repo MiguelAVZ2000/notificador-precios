@@ -7,7 +7,7 @@ Este es un script en Python que monitorea los precios de productos en línea y e
 - Extrae precios de productos de sitios web automáticamente.
 - Soporte para múltiples tiendas en línea.
 - Guarda el historial de precios de cada producto.
-- Funciona con `requests`, `BeautifulSoup` y `Selenium` (para sitios dinámicos).
+- Funciona con `requests`, `BeautifulSoup`.
 
 ## 📦 Requisitos
 
