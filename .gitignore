@@ -1,0 +1,13 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar dependencias (si usas pip freeze para guardarlas en requirements.txt)
+env/
+*.log
+.vscode/

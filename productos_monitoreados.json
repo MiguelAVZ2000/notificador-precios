@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "rasuradora",
+        "url": "https://articulo.mercadolibre.cl/MLC-1548972225-kit-perfect-trio-mycocos-40-rasuradora-nasal-inalambrica-_JM#polycard_client=homes-korribanSearchPromotions&searchVariation=182234251972&position=36&search_layout=grid&type=item&tracking_id=fddf3e9f-b13b-46cd-a824-b62658a9bb4b&c_id=/home/promotions-recommendations/element&c_uid=cd27d8eb-a1cf-4917-818d-4774a0b6ee61",
+        "precio_deseado": 81000.0,
+        "precio_actual": 133990.0,
+        "selector_css": ".andes-money-amount__fraction",
+        "separador_miles": ".",
+        "fecha_agregado": "2025-03-05 09:35:09",
+        "historial_precios": [
+            {
+                "fecha": "2025-03-05 09:35:09",
+                "precio": 133990.0
+            },
+            {
+                "fecha": "2025-03-05 09:35:37",
+                "precio": 133990.0
+            }
+        ]
+    }
+]
