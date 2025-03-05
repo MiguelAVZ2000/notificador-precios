@@ -13,6 +13,8 @@ Este es un script en Python que monitorea los precios de productos en línea y e
 
 Asegúrate de tener Python 3 instalado y las siguientes dependencias:
 
+```sh
+
 Instalación y Uso
 Clonar el repositorio:
 
